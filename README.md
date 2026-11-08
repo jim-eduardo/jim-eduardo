@@ -23,10 +23,10 @@ I'm a full-stack developer, building my career by creating real-world projects a
 
 - 🇵🇪 Based in Lima, Peru.
 - 🎓 Currently studying Software Engineering.
-- 🧠 Always learning new technologies and improving my skills.
-- 🚀 I love building projects and bringing ideas to life.
-- 🔍 Curious about how things work and how to make them better.
-- 🤝 Open to collaborating on interesting projects.
+- 💻 Working with technologies like React, Next.js, Node.js and SQL.
+- 🛠️ I enjoy turning ideas into functional and practical projects.
+- 📚 Always exploring new tools and finding better ways to write code.
+- 🤝 Open to collaborating and learning from other developers.
 - 🎯 My goal is to become a better developer every day.
 
 ## 💻 Technologies and tools
