@@ -63,7 +63,7 @@ These are the technologies and tools I work with, both on the frontend and the b
 
 <p align="center">
   <a href="#">
-    <img src="https://www.svgrepo.com/show/491207/code-tag.svg" width="40" alt="My Portfolio"/>
+    <img src="https://cdn.simpleicons.org/rocket/000000" width="40" alt="My Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/51934897192">
