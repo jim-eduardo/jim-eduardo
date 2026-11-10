@@ -13,9 +13,6 @@
   <a href="mailto:jimeduardogonzalesmoreno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/680547329488453882">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 ## 👋 Hi there!
@@ -84,9 +81,5 @@ These are the technologies and tools I work with, both on the frontend and the b
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:jimeduardogonzalesmoreno@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/680547329488453882">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord"/>
   </a>
 </p>
